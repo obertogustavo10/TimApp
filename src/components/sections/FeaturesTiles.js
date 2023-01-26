@@ -58,12 +58,7 @@ const FeaturesTiles = ({
               <div className="tiles-item-inner">
                 <div className="features-tiles-item-header">
                   <div className="features-tiles-item-image mb-16">
-                    <Image
-                      src={require("./../../assets/images/feature-tile-icon-01.svg")}
-                      alt="Features tile icon 01"
-                      width={64}
-                      height={64}
-                    />
+                  <svg width="64" height="64" xmlns="http://www.w3.org/2000/svg"><g stroke-width="2" fill="none" fill-rule="evenodd" stroke-linecap="square"><path stroke="#FFF" d="M30 39.313l-4.18 2.197L27 34.628l-5-4.874 6.91-1.004L32 22.49l3.09 6.26L42 29.754l-3 2.924"/><path d="M43 42h-9M43 37h-9" stroke="#ACADFF"/></g></svg>
                   </div>
                 </div>
                 <div className="features-tiles-item-content">
@@ -85,12 +80,7 @@ const FeaturesTiles = ({
               <div className="tiles-item-inner">
                 <div className="features-tiles-item-header">
                   <div className="features-tiles-item-image mb-16">
-                    <Image
-                      src={require("./../../assets/images/feature-tile-icon-02.svg")}
-                      alt="Features tile icon 02"
-                      width={64}
-                      height={64}
-                    />
+                  <svg width="64" height="64" xmlns="http://www.w3.org/2000/svg"><g stroke-width="2" fill="none" fill-rule="evenodd" stroke-linecap="square"><path stroke="#FFF" d="M21 23h22v18H21z"/><path d="M26 28h12M26 32h12M26 36h5" stroke="#ACADFF"/></g></svg>
                   </div>
                 </div>
                 <div className="features-tiles-item-content">
@@ -112,12 +102,7 @@ const FeaturesTiles = ({
               <div className="tiles-item-inner">
                 <div className="features-tiles-item-header">
                   <div className="features-tiles-item-image mb-16">
-                    <Image
-                      src={require("./../../assets/images/feature-tile-icon-03.svg")}
-                      alt="Features tile icon 03"
-                      width={64}
-                      height={64}
-                    />
+                  <svg width="64" height="64" xmlns="http://www.w3.org/2000/svg"><g stroke-width="2" fill="none" fill-rule="evenodd"><ellipse stroke="#ACADFF" stroke-linecap="square" cx="32" cy="32" rx="5.5" ry="11"/><path d="M32 21v22M21 32h22" stroke="#FFF"/><circle stroke="#FFF" stroke-linecap="square" cx="32" cy="32" r="11"/></g></svg>
                   </div>
                 </div>
                 <div className="features-tiles-item-content">
